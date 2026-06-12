@@ -1,6 +1,9 @@
 ---
 name: my-skill
 description: 测试嵌套 standalone 至少需要二十个字符才行。
+repository: "branch 'main' set up to track 'origin/main'."
+default_branch: "main"
+published_at: "2026-06-12"
 ---
 
 # Test
